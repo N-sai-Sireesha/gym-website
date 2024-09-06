@@ -1,2 +1,2 @@
-# gym-website
-A Gym website project is a platform that provides users with information about gym services, membership options, class schedules, trainer profiles, and allows for online bookings and payments.
+# Fitclub_25-07-23
+Discover the art of crafting a stunning Fitclub Gym Website Landing Page with this step-by-step tutorial.
